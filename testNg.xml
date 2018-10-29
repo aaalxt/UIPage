@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="uyuni-project-test">
+  <listeners>
+         <listener class-name="com.ali.jskuli.listener.WebDriverListener" />
+         <listener class-name="com.ali.jskuli.report.WebDriverReport" />
+         <listener class-name="org.testng.reporters.XMLReporter" />      
+    </listeners>
+		<test name="uyuni-project-test" preserve-order="true">
+	  <classes>
+          <class name="com.ali.jskuli.patent.TestAgreement">  
+          </class>
+          <class name="com.ali.jskuli.patent.AuditAgreement">  
+          </class>
+           <class name="com.ali.jskuli.patent.AssignAgreement">  
+          </class>
+           <class name="com.ali.jskuli.patent.PigeonholeManagement">  
+          </class>
+      </classes>
+	</test>
+
+</suite>
+

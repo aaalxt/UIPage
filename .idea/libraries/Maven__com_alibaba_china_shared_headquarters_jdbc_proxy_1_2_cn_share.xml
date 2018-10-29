@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba.china.shared:headquarters.jdbc.proxy:1.2-cn-share">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/china/shared/headquarters.jdbc.proxy/1.2-cn-share/headquarters.jdbc.proxy-1.2-cn-share.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/china/shared/headquarters.jdbc.proxy/1.2-cn-share/headquarters.jdbc.proxy-1.2-cn-share-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/china/shared/headquarters.jdbc.proxy/1.2-cn-share/headquarters.jdbc.proxy-1.2-cn-share-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

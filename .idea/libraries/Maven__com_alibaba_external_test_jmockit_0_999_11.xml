@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba.external:test.jmockit:0.999.11">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/external/test.jmockit/0.999.11/test.jmockit-0.999.11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/external/test.jmockit/0.999.11/test.jmockit-0.999.11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/external/test.jmockit/0.999.11/test.jmockit-0.999.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

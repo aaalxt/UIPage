@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba.crm.shared:jtester.spec:1.0.0-gaea">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/crm/shared/jtester.spec/1.0.0-gaea/jtester.spec-1.0.0-gaea.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/crm/shared/jtester.spec/1.0.0-gaea/jtester.spec-1.0.0-gaea-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/crm/shared/jtester.spec/1.0.0-gaea/jtester.spec-1.0.0-gaea-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
